@@ -1,6 +1,6 @@
-# Web Development Projects
+# Web Development Projects (Frontend)
 
-This repository contains a collection of small web development projects created using **HTML**, **CSS**, and **JavaScript**. Each project demonstrates fundamental concepts and creative implementations of web technologies.
+This repository contains a collection of small frontend web development projects created using **HTML**, **CSS**, and **JavaScript**. Each project demonstrates fundamental concepts and creative implementations of web technologies.
 
 ## Features
 
