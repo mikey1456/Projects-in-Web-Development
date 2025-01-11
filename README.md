@@ -21,7 +21,7 @@ This repository contains a collection of small web development projects created 
 - **JavaScript**: Adds interactivity and functionality, embedded directly within the HTML using `<script>` tags.  
 
 ## Project List
-1. Tablut Game Project: This is a school project I created based on the classic game **Tablut**, implemented using **HTML**, **CSS**, and **JavaScript**. It serves as a modern interpretation of this historical board game.
+1. **Tablut Game Project**: This is a school project I created based on the classic game **Tablut**, implemented using **HTML**, **CSS**, and **JavaScript**. It serves as a modern interpretation of this historical board game.
 
 ## Acknowledgments
 
