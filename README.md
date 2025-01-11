@@ -22,20 +22,6 @@ This repository contains a collection of small web development projects created 
 
 ## Project List
 
-1. **Portfolio Website**  
-   A basic, responsive webpage designed for showcasing personal projects and skills.  
-
-2. **Quiz App**  
-   An interactive quiz game that tracks answers and calculates results.  
-
-3. **To-Do List**  
-   A simple task manager for adding, completing, and removing tasks.  
-
-4. **Image Carousel**  
-   A responsive slider for cycling through a collection of images.  
-
-5. **Navigation Bar**  
-   A responsive and dynamic navigation bar with toggle functionality.  
 
 ## Acknowledgments
 
