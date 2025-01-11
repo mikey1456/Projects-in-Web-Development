@@ -1,24 +1,45 @@
-# Tablut Game Project
+# Web Development Projects
 
-This is a school project I created based on the classic game **Tablut**, implemented using **HTML**, **CSS**, and **JavaScript**. It serves as a modern interpretation of this historical board game.
+This repository contains a collection of small web development projects created using **HTML**, **CSS**, and **JavaScript**. Each project demonstrates fundamental concepts and creative implementations of web technologies.
 
 ## Features
-- An interactive game board with a responsive design.
-- Gameplay mechanics that replicate the traditional rules of Tablut.
-- A clean and user-friendly interface for an enjoyable experience.
+
+- Projects with embedded **CSS** for styling using `<style>` tags.  
+- Projects with embedded **JavaScript** for interactivity using `<script>` tags.  
+- A variety of examples showcasing responsive design, animations, and dynamic interactions.
 
 ## How to Run
-1. Clone this repository to your local machine.
-2. Open the project folder and double-click the `index.html` file.
-3. The game will launch in your default web browser.
+
+1. Clone this repository to your local machine.  
+2. Navigate to the folder of the project you'd like to explore.  
+3. Double-click the `.html` file to open it in your default web browser.  
 
 ## Technologies Used
-- **HTML** for structuring the layout.
-- **CSS** for styling and visual design.
-- **JavaScript** for game logic and interactivity.
+
+- **HTML**: Structures the content and layout of the web pages.  
+- **CSS**: Provides styling and design, embedded directly within the HTML using `<style>` tags.  
+- **JavaScript**: Adds interactivity and functionality, embedded directly within the HTML using `<script>` tags.  
+
+## Project List
+
+1. **Portfolio Website**  
+   A basic, responsive webpage designed for showcasing personal projects and skills.  
+
+2. **Quiz App**  
+   An interactive quiz game that tracks answers and calculates results.  
+
+3. **To-Do List**  
+   A simple task manager for adding, completing, and removing tasks.  
+
+4. **Image Carousel**  
+   A responsive slider for cycling through a collection of images.  
+
+5. **Navigation Bar**  
+   A responsive and dynamic navigation bar with toggle functionality.  
 
 ## Acknowledgments
-This project was inspired by **Tablut**, a well-known variant of the ancient **Táfl** games.
 
-Feel free to explore the project, give feedback, or contribute!
+These projects are inspired by fundamental web development practices and aim to provide beginners with hands-on experience in building web pages.  
+
+Feel free to explore, provide feedback, or contribute to enhance the projects!  
 
