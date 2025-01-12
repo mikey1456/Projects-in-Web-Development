@@ -22,6 +22,7 @@ This repository contains a collection of small frontend web development projects
 
 ## Project List
 1. **Tablut**: This is a school project I created based on the classic game **Tablut**, implemented using **HTML**, **CSS**, and **JavaScript**. It serves as a modern interpretation of this historical board game.
+2. **Football Archive:** A website I developed that serves as a comprehensive platform for storing, organizing, and accessing football-related data and history.
 
 ## Acknowledgments
 
